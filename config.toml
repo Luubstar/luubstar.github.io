@@ -7,10 +7,69 @@ compile_sass = true
 # Whether to build a search index to be used later on by a JavaScript library
 build_search_index = false
 
+theme = "blow"
+
 [markdown]
 # Whether to do syntax highlighting
 # Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
 highlight_code = true
 
 [extra]
-# Put all your custom variables here
+enable_search = false
+enable_sidebar = false
+enable_adsense = false
+enable_multilingue = false
+adsense_link = ""
+
+[extra.lang]
+items = [
+    { lang = "en", links = [
+        { base_url = "/", name = "English" },
+    ] },
+]
+
+[extra.navbar]
+items = [
+    { lang = "en", links = [
+        { url = "/blog", name = "Blog" },
+    ] },
+]
+title = "Mi Portfolio"
+
+# Index page
+[extra.index]
+title = "Mi Portfolio"
+image = "https://via.placeholder.com/200"
+image_alt = "Mi Portfolio, pero en texto"
+
+[extra.default_author]
+name = "Nicolás Barona Riera"
+avatar = "https://via.placeholder.com/200"
+avatar_alt = "Este soy yo"
+
+[extra.social]
+codeberg = ""
+github = "https://github.com/Luubstar"
+gitlab = ""
+twitter = ""
+mastodon = ""
+linkedin = "https://www.linkedin.com/in/nicol%C3%A1s-barona-riera-6227a1158/?trk=onsite_shorturl"
+stackoverflow = ""
+telegram = ""
+email = "nbaronariera@gmail.com"
+
+[extra.favicon]
+favicon = "/icons/favicon.ico"
+favicon_16x16 = "/icons/favicon-16x16.png"
+favicon_32x32 = "/icons/favicon-32x32.png"
+apple_touch_icon = "/icons/apple-touch-icon.png"
+android_chrome_512 = "/icons/android-chrome-512x512.png"
+android_chrome_192 = "/icons/android-chrome-192x192.png"
+manifest = "/icons/site.webmanifest"
+
+highlight_theme = "css"
+
+highlight_themes_css = [
+  { theme = "ayu-dark", filename = "syntax-dark.css" },
+  { theme = "ayu-light", filename = "syntax-light.css" },
+]
