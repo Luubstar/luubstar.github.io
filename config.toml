@@ -31,10 +31,10 @@ items = [
 [extra.navbar]
 items = [
     { lang = "en", links = [
-        { url = "/blog", name = "Blog" },
+        { url = "/blog", name = "Mis proyectos" },
     ] },
 ]
-title = "Mi Portfolio"
+title = "Inicio"
 
 # Index page
 [extra.index]
