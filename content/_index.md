@@ -9,6 +9,8 @@ paginate_by = 4
 Me llamo Nicolás Barona, y soy estudiante de ingeniería informática, y me centro en el desarrollo de software.
 Llevo programando desde los 13 años, y este blog sirve para almacenar y mostrar mis proyectos.
 
+Para más información sobre mi educación, conocimientos y experiencia, visita mi LinkedIn o mi [currículum](https://github.com/Luubstar/Luubstar/blob/main/Curr%C3%ADculum.pdf)
+ 
 <p></p>
 
 # Proyectos destacados
