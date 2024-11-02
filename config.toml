@@ -31,7 +31,7 @@ items = [
 [extra.navbar]
 items = [
     { lang = "en", links = [
-        { url = "/blog", name = "Mis proyectos" },
+        { url = "/blog", name = "Proyectos" },
     ] },
 ]
 title = "Inicio"
