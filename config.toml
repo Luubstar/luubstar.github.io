@@ -38,13 +38,13 @@ title = "Inicio"
 
 # Index page
 [extra.index]
-title = "Mi Portfolio"
-image = "https://via.placeholder.com/200"
-image_alt = "Mi Portfolio, pero en texto"
+title = ""
+image = "https://avatars.githubusercontent.com/u/69761015?v=4"
+image_alt = "Este también soy yo"
 
 [extra.default_author]
 name = "Nicolás Barona Riera"
-avatar = "https://via.placeholder.com/200"
+avatar = "https://avatars.githubusercontent.com/u/69761015?v=4"
 avatar_alt = "Este soy yo"
 
 [extra.social]

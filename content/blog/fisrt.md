@@ -2,8 +2,10 @@
 title = "Mi plantilla"
 date = 2021-11-12
 description = "Esta es una plantilla. Creo"
+weight = 0
 [extra]
-imagenurl = "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2F4.bp.blogspot.com%2F-cQz4d5ZCY4o%2FVSZQ4xKYIFI%2FAAAAAAAAFw0%2FyWAecSKIJbs%2Fs1600%2Fpotato.jpg&f=1&nofb=1&ipt=24ece25a0c0ba20460b2310df0cdfd0c5a03c638d51b106df409a8dee57e0869&ipo=images"
+imagenurl = ""
+highlight = false
 +++
 
 # Hola

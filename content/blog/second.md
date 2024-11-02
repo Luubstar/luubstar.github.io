@@ -1,8 +1,8 @@
 +++
-title = "Un blog con titulo absurdamente largo"
+title = "Este blog se destaca y va antes"
 date = 2021-11-13
 description = "Este es un intento de hacer un texto absurdamente largo para demostrar que todo funciona como espero"
-weight = 1
+weight = 0
 [extra]
 imagenurl = ""
 highlight = true
