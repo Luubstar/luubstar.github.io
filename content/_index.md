@@ -16,7 +16,6 @@ Para más información sobre mi educación, conocimientos y experiencia, visita 
 # Proyectos destacados
 
 ???????
-AAAAAAAAAAAAAAAAAA
 
 <p></p>
 

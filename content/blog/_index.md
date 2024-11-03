@@ -1,5 +1,5 @@
 +++
-title = "Blog"
+title = ""
 description = "Blog posts"
 template = "section.html"
 page_template = "page.html"

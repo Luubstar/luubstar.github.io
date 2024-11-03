@@ -4,7 +4,7 @@ date = 2021-11-12
 description = "Esta es una plantilla. Creo"
 weight = 0
 [extra]
-imagenurl = ""
+imagenurl = "http://4.bp.blogspot.com/-cQz4d5ZCY4o/VSZQ4xKYIFI/AAAAAAAAFw0/yWAecSKIJbs/s1600/potato.jpg"
 highlight = false
 +++
 
