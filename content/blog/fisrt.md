@@ -4,9 +4,19 @@ date = 2021-11-12
 description = "Esta es una plantilla. Creo"
 weight = 0
 [extra]
-imagenurl = "http://4.bp.blogspot.com/-cQz4d5ZCY4o/VSZQ4xKYIFI/AAAAAAAAFw0/yWAecSKIJbs/s1600/potato.jpg"
+imagenurl = ""
 highlight = false
 +++
+
+# Canvas
+
+<canvas id="my_canvas" width="600" height="600" style="border:1px solid #000;"></canvas>
+
+<script type="module">
+ 
+      import init from "/primer_blog/wasm_test.js";
+      init().catch(console.error);
+</script>
 
 # Hola
 
