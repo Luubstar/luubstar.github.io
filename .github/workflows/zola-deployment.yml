@@ -24,6 +24,6 @@ jobs:
         env:
           PAGES_BRANCH: master
           BUILD_DIR: .
-          TOKEN: ${{ secrets.PUBLIC_TOKEN }}
+          TOKEN: ${{ secrets.TOKEN }}
           REPOSITORY: luubstar/luubstar.github.io
 
