@@ -10,13 +10,7 @@ highlight = false
 
 # Canvas
 
-<canvas id="my_canvas" width="600" height="600" style="border:1px solid #000;"></canvas>
-
-<script type="module">
- 
-      import init from "/primer_blog/wasm_test.js";
-      init().catch(console.error);
-</script>
+{{ canvas(id="1", ruta="/primer_blog/wasm-test.js") }}
 
 # Hola
 
