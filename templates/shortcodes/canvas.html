@@ -6,12 +6,12 @@
     <button id="PlayPause{{id}}"><i class="material-icons">play_arrow</i></button>
     <button id="Reiniciar{{id}}"><i class="material-icons">replay</i></button>
     <button id="Minimizar{{id}}">─</button>
-    <canvas id="myCanvas{{id}}" width="0" height="0"></canvas>
+    <canvas id="myCanvas{{id}}" width="1200" height="0" tabindex='1'></canvas>
  </div>
 
 
  <script type="module"> 
-  import init from "{{ruta}}";
-  init("{{id}}").catch(console.error);
+ import init, {start_system} from "/{{carpeta}}/{{ruta}}/{{ruta}}.js";
+  init().then(() => {start_system("{{id}}");});
  </script>
 </div>
