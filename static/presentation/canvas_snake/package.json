@@ -10,7 +10,7 @@
   "files": [
     "canvas_snake_bg.wasm",
     "canvas_snake.js",
-    "canvas_snake.d.ts"
+    ""
   ],
   "main": "canvas_snake.js",
   "types": "canvas_snake.d.ts",

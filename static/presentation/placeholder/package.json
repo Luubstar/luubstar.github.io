@@ -10,7 +10,7 @@
   "files": [
     "placeholder_bg.wasm",
     "placeholder.js",
-    "placeholder.d.ts"
+    ""
   ],
   "main": "placeholder.js",
   "types": "placeholder.d.ts",
