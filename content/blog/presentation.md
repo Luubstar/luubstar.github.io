@@ -4,7 +4,7 @@ date = 2024-11-22
 description = "Bienvenido a mi portfolio. Aquí explico como funciona y muestro ejemplos interactivos"
 weight = 0
 [extra]
-imagenurl = "/presentation/canvas_snake/snake.jpg"
+imagenurl = "/blog/presentation/canvas_snake/snake.jpg"
 highlight = true
 +++
 <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
@@ -30,7 +30,7 @@ Esto es posible gracias a Rust. Rust es un lenguaje de programación de bajo niv
 
 # ¡Snake!
 
-![Imagen de Snake de Wikipedia](/presentation/canvas_snake/snake.jpg)
+![Imagen de Snake de Wikipedia](/blog/presentation/canvas_snake/snake.jpg)
 
 Snake es un videojuego que se origina en las máquinas arcade, en 1976. La idea del juego es maniobrar la serpiente para comer todas las manzanas posibles sin chocar con las paredes o tu propio cuerpo. Seguramente todos hayáis jugado a una versión de Snake en algún momento de vuestra vida, pues bien, aquí tenéis mi propia versión. No es muy increíble pero es disfrutón.
 
