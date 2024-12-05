@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://luubstar.github.io/sitemap.xml
