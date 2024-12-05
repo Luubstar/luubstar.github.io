@@ -19,6 +19,7 @@ No soy diseñador web, el estilo de la web es una versión reconfigurada de la p
 
 Para lograr que este portfolio sea interesante, he creado un sistema de canvas interactivo. Por ejemplo, aquí hay uno vacío:
 
+{{ canvas(id="0", carpeta="presentation",  ruta="placeholder")}}
 
 Los botones hacen lo siguiente:
 <i class="material-icons">play_arrow</i> y <i class="material-icons">pause</i> inician y pausan el programa, 
@@ -33,6 +34,7 @@ Esto es posible gracias a Rust. Rust es un lenguaje de programación de bajo niv
 
 Snake es un videojuego que se origina en las máquinas arcade, en 1976. La idea del juego es maniobrar la serpiente para comer todas las manzanas posibles sin chocar con las paredes o tu propio cuerpo. Seguramente todos hayáis jugado a una versión de Snake en algún momento de vuestra vida, pues bien, aquí tenéis mi propia versión. No es muy increíble pero es disfrutón.
 
+{{ canvas(id="1", carpeta="presentation",  ruta="canvas_snake")}}
 
 ## Controles:
 - W -> Arriba
